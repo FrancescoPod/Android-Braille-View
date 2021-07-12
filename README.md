@@ -8,7 +8,7 @@ This view is pretty much flexable because it adjusts the height automatically ac
 https://github.com/FrancescoPod/Android-Braille-View/blob/main/img_braille_view.jpeg
 
 ### Usage
-* Android layout
+* Android layout <br>
 <...brailleview.BrailleComponents.BrailleView
         android:layout_width="match_parent"
         android:background="@android:color/black"
@@ -19,7 +19,7 @@ https://github.com/FrancescoPod/Android-Braille-View/blob/main/img_braille_view.
         app:backgroundColor="@color/white"
         app:textColor="@color/black"
         android:id="@+id/brailleView"/>
-* Java
+* Java <br>
 private BrailleView brailleView; <br>
 brailleView = findViewById(R.id.brailleView); <br>
 brailleView.setText("abc"); <br>

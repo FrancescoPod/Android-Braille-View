@@ -3,7 +3,9 @@
 ### Description
 This is a custom android view that allows you to translate and show directly braille text in a canvas.
 Also, in order to make it more readable under the dots the relative alphabet character is displayed.
-This view is pretty much flexable because it adjusts the height automatically according to the number of characters that must be displayed and you can customize the background color and the text color.
+This view is pretty flexable because it adjusts the height automatically according to the number of characters that must be displayed and you can customize the background color and the text color.
+
+At the moment only the lower case alphabet letters are supported.
 
 https://github.com/FrancescoPod/Android-Braille-View/blob/main/img_braille_view.jpeg
 

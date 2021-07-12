@@ -11,6 +11,7 @@ https://github.com/FrancescoPod/Android-Braille-View/blob/main/img_braille_view.
 
 ### Usage
 * Android layout <br>
+```xml
 <...brailleview.BrailleComponents.BrailleView
         android:layout_width="match_parent"
         android:background="@android:color/black"
@@ -21,6 +22,7 @@ https://github.com/FrancescoPod/Android-Braille-View/blob/main/img_braille_view.
         app:backgroundColor="@color/white"
         app:textColor="@color/black"
         android:id="@+id/brailleView"/>
+```
 * Java <br>
 private BrailleView brailleView; <br>
 brailleView = findViewById(R.id.brailleView); <br>

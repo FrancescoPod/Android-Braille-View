@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BrailleView</string>
+    <declare-styleable name="BrailleView">
+        <attr format="color" name="backgroundColor"/>
+        <attr format="color" name="textColor"/>
+    </declare-styleable>
+</resources>

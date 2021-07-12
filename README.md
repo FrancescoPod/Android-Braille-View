@@ -25,9 +25,9 @@ https://github.com/FrancescoPod/Android-Braille-View/blob/main/img_braille_view.
 ```
 * Java <br>
 ```java
-private BrailleView brailleView; <br>
-brailleView = findViewById(R.id.brailleView); <br>
-brailleView.setText("abc"); <br>
+private BrailleView brailleView; 
+brailleView = findViewById(R.id.brailleView); 
+brailleView.setText("abc"); 
 ```
   
 ### Contact

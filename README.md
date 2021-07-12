@@ -19,13 +19,13 @@ https://github.com/FrancescoPod/Android-Braille-View/blob/main/img_braille_view.
         app:backgroundColor="@color/white"
         app:textColor="@color/black"
         android:id="@+id/brailleView"/>
-  * Java
-  private BrailleView brailleView;
-  brailleView = findViewById(R.id.brailleView);
-  brailleView.setText("abc");
+* Java
+private BrailleView brailleView;
+brailleView = findViewById(R.id.brailleView);
+brailleView.setText("abc");
   
-  ### Contact
-  You can contact me at: francesco.podesta03@gmail.com
+### Contact
+You can contact me at: francesco.podesta03@gmail.com
 
 
 
